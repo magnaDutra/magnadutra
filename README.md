@@ -1,7 +1,9 @@
 ### Olá, Sou a Magna 👩‍💻
 :chart_with_upwards_trend: Em transição de carreira.
 
-📫 Contacte-me pelo e-mail: maagdutra@gmail.com
+:woman_student: Participando da 6ª geração da laboratória Brasil.
+
+📫 Contacte-me pelo e-mail: maagdutra@gmail.com.
 
 
 <div>
