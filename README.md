@@ -1,4 +1,7 @@
 ### Olá, Sou a Magna 👩‍💻
+:chart_with_upwards_trend: Em transição de carreira.
+📫 Contacte-me pelo e-mail: maagdutra@gmail.com
+
 
 <div>
   <a href="https://github.com/magnadutra">
