@@ -1,22 +1,23 @@
 ### Olá, Sou a Magna Dutra!
 
 :woman_student: Desenvolvedora front-end na Avanade Brasil.
+
 📫 Contacte-me pelo e-mail: maagdutra@gmail.com.
 
 ##
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/magna-dutra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
   
 ##
 
-<div>
+<div align="center">
   <a href="https://github.com/magnadutra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magnadutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnadutra&layout=compact&langs_count=16&theme=dracula"/> -->
 <div>
   
-  <div style="display: inline_block"><br>
+  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
