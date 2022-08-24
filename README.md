@@ -1,5 +1,4 @@
 ### Olá, Sou a Magna 👩‍💻
-:chart_with_upwards_trend: Em transição de carreira.
 
 :woman_student: Desenvolvedora front-end na Avanade Brasil.
 
