@@ -1,11 +1,11 @@
 ### Olá, Sou a Magna Dutra!
 
-:woman_student: Desenvolvedora front-end na Avanade Brasil.
-
-📫 Contacte-me pelo e-mail: maagdutra@gmail.com.
-
-##
+:woman_student: Desenvolvedora front-end Jr. na Avanade Brasil.
+- Graduada da 6ª geração da [< Laboratoria >](https://www.laboratoria.la/br).
+- Formada em Processos Gerenciais pela faculdade ENIAC.
+- Você pode me encontrar em:
 <div align="center">
+  <a href = "mailto:maagdutra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/magna-dutra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
   
