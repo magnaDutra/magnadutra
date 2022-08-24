@@ -1,6 +1,6 @@
 ### Olá, Sou a Magna Dutra!
 
-:woman_student: Desenvolvedora front-end Jr. na Avanade Brasil.
+- Desenvolvedora front-end Jr. na Avanade Brasil.
 - Graduada da 6ª geração da [< Laboratoria >](https://www.laboratoria.la/br).
 - Formada em Processos Gerenciais pela faculdade ENIAC.
 - Você pode me encontrar em:
