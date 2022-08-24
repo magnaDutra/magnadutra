@@ -1,9 +1,14 @@
 ### Olá, Sou a Magna Dutra!
 
 :woman_student: Desenvolvedora front-end na Avanade Brasil.
-
 📫 Contacte-me pelo e-mail: maagdutra@gmail.com.
 
+##
+<div>
+  <a href="https://www.linkedin.com/in/magna-dutra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+  
+##
 
 <div>
   <a href="https://github.com/magnadutra">
@@ -25,15 +30,15 @@
 </div>
   
 
-
+<!-- 
   ##
   
   <div> 
-  <a href="https://www.linkedin.com/in/magna-dutra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/magna-dutra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Magnadutra/magnadutra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Magnadutra/magnadutra/blob/output/github-contribution-grid-snake.svg)
     
  
-</div>
+</div> -->
 
  
