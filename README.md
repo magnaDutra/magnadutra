@@ -1,4 +1,4 @@
-### Olá, Sou a Magna 👩‍💻
+### Olá, Sou a Magna Dutra!
 
 :woman_student: Desenvolvedora front-end na Avanade Brasil.
 
