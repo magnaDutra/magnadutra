@@ -1,7 +1,7 @@
 ### Olá, Sou a Magna 👩‍💻
 :chart_with_upwards_trend: Em transição de carreira.
 
-:woman_student: Participando da 6ª geração da laboratória Brasil.
+:woman_student: Desenvolvedora front-end na Avanade Brasil.
 
 📫 Contacte-me pelo e-mail: maagdutra@gmail.com.
 
